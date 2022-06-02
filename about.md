@@ -5,7 +5,7 @@ titles:
 
 key: page-about
 ---
-![](/docs/assets/images/aboutmebanner.jpg)
+![](/assets/images/aboutmebanner.jpg)
 [Image Credit](https://unsplash.com/photos/N_tcaOWTSQQ)
 
 Hello!
