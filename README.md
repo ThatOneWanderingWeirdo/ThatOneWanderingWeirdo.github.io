@@ -1,3 +1,4 @@
+# This Site uses the TeXt
 # [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-text-theme.svg)](https://github.com/kitian616/jekyll-TeXt-theme/releases)
