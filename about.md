@@ -2,14 +2,10 @@
 layout: article
 titles:
   en: About Me!
-  
-article_header:
-  type: cover
-  image:
-    src: /docs/assets/images/aboutmebanner.jpg
 
 key: page-about
 ---
+![](/docs/assets/images/aboutmebanner.jpg)
 [Image Credit](https://unsplash.com/photos/N_tcaOWTSQQ)
 
 Hello!
