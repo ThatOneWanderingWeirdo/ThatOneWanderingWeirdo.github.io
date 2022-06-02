@@ -2,6 +2,8 @@
 title: TeXt - Additional Styles
 key: 20170808
 tags: TeXt
+toc: true
+category: post
 ---
 
 Success!
@@ -9,12 +11,13 @@ Success!
 
 `success`{:.success} `info`{:.info} `warning`{:.warning} `error`{:.error}
 
+
 <div class="grid-container">
 <div class="grid grid--p-3">
-<div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
+<div class="cell cell--4 cell--md-5 cell--sm-12" markdown="1">
 ![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_rounded"){:.rounded}
 </div>
-<div class="cell cell--12 cell--md-5 cell--lg-4" markdown="1">
+<div class="cell cell--4 cell--md-5 cell--sm-12" markdown="1">
 ![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_circle+shadow"){:.circle.shadow}
 </div>
 </div>
@@ -22,24 +25,22 @@ Success!
 
 <div class="grid-container">
 <div class="grid grid--p-1">
-<div class="cell cell--6 cell--md-4 cell--lg-2">
+<div class="cell cell--2 cell--md-4 cell--sm-6">
 <div class="button button--success button--pill my-2"><i class="fas fa-space-shuttle"></i> CLICK ME</div>
 </div>
-<div class="cell cell--6 cell--md-4 cell--lg-2">
+<div class="cell cell--2 cell--md-4 cell--sm-6">
 <div class="button button--outline-info button--pill my-2"><i class="fas fa-space-shuttle"></i> CLICK ME</div>
 </div>
-<div class="cell cell--6 cell--md-4 cell--lg-2">
+<div class="cell cell--2 cell--md-4 cell--sm-6">
 <div class="button button--warning button--rounded my-2"><i class="fas fa-user-astronaut"></i> CLICK ME</div>
 </div>
-<div class="cell cell--6 cell--md-4 cell--lg-2">
+<div class="cell cell--2 cell--md-4 cell--sm-6">
 <div class="button button--outline-error button--rounded my-2"><i class="fas fa-user-astronaut"></i> CLICK ME</div>
 </div>
 </div>
 </div>
 
 <!--more-->
-
-[Documentation](https://tianqi.name/jekyll-TeXt-theme/docs/en/additional-styles)
 
 ## Alert
 
@@ -71,6 +72,7 @@ Error Text.
 | ---- | ---- |
 | ![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_border"){:.border} | ![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_shadow"){:.shadow} |
 
+
 | `Rounded` | `Circle` |
 | ---- | ---- |
 | ![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_rounded"){:.rounded} | ![Image](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/docs/assets/images/image.jpg "Image_circle"){:.circle} |
@@ -97,4 +99,3 @@ Error Text.
 | Item | [Doc](https://tianqi.name/jekyll-TeXt-theme/docs/en/item) |
 | Card | [Doc](https://tianqi.name/jekyll-TeXt-theme/docs/en/card) |
 | Hero | [Doc](https://tianqi.name/jekyll-TeXt-theme/docs/en/hero) |
-| Swiper | [Doc](https://tianqi.name/jekyll-TeXt-theme/docs/en/swiper) |
