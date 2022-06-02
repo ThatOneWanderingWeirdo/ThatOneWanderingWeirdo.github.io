@@ -50,3 +50,7 @@ Keyle Barnes
 #### UCCS Office of Information Technology - Part Time
 Little summary
 **Skills** Cisco Systems Products · Cherwell Service Management (CSM) · Troubleshooting · Customer Service
+
+## Skills
+
+**Skills** Cisco Systems Products · Cherwell Service Management (CSM) · Troubleshooting · Customer Service · Adobe Photoshop · Adobe Lightroom · Problem Solving · Task Oritented
