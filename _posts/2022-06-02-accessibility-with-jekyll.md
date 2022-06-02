@@ -1,7 +1,7 @@
 ---
 title: Checking for Accessibility
 key: 2022006
-tags: programming, accessibility
+tags: programming accessibility
 ---
 
 ## Intro
