@@ -5,12 +5,9 @@ titles:
 key: cv-2
 ---
 
-![Hello](/assets/images/me.jpg)
-*Enjoying St. Petersburg :) - `2018`*
 
 Hello, my name is Keyle Barnes and I use they/them/theirs. I am a 19 year old student currently working on my undergraduate in Computer Science at UCCS with a minor in UX/UI Design. I am currently working in Information Technology part time. I love to help people and help make the web more accessible!
 
-I am very curious about entrepreneurship, helping people, web apps, mobile apps, videogames and internet of things. I also like the 3D modelling and 3D animation, but what I like the most from what I have learned at the university is to use the tools I learned to understand different branches of the knowledge, like electronics, informatics, telematics, user centered design and others. For me, it is not only to understand, but to connect all that knowledge to bring to life solutions that help people and solve problems.
 
 
 ## Personal Data
