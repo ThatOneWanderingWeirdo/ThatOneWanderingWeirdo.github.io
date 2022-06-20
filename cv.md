@@ -10,7 +10,7 @@ Hello, my name is Keyle Barnes and I use they/them/theirs. I am a 19 year old st
 
 I need to put more images here
 
-## Personal Data
+## Personal Information
 
 Keyle Barnes
 **E-mail:** Put Something
@@ -53,4 +53,4 @@ Little summary
 
 ## Skills
 
-**Skills** Cisco Systems Products · Cherwell Service Management (CSM) · Troubleshooting · Customer Service · Adobe Photoshop · Adobe Lightroom · Problem Solving · Task Oritented
+**Skills** Cisco Systems Products · Cherwell Service Management (CSM) · Troubleshooting · Customer Service · Adobe Photoshop · Adobe Lightroom · Problem Solving · Task Oriented
