@@ -6,13 +6,13 @@ key: cv-2
 ---
 
 
-Hello, my name is Keyle Barnes and I use they/them/theirs. I am a 19 year old student currently working on my undergraduate in Computer Science at UCCS with a minor in UX/UI Design. I am currently working in Information Technology part time. I love to help people and help make the web more accessible!
+Hello, my name is Tobias and I use they/them/theirs. I am a 19 year old student currently working on my undergraduate in Computer Science at UCCS with a minor in UX/UI Design. I am currently working in Information Technology part time. I love to help people and help make the web more accessible!
 
 I need to put more images here
 
 ## Personal Information
 
-Keyle Barnes
+Tobias
 **E-mail:** Put Something
 **Planned Date of graduation:** 2025  
 **University:** [University of Colorado Colorado Springs](http://www.uccs.edu)  
@@ -21,7 +21,7 @@ Keyle Barnes
 
 ### Degree
 #### Bachelor of Arts in Computer Science `2025`
-##### Focus in Cybersecurity with a minor in UX/UI Design
+##### Focus in Cybersecurity with a minor in Technical Communication & Information Design
 [University of Colorado Colorado Springs](https://www.uccs.edu)
 
 
