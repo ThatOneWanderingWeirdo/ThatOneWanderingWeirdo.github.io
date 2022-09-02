@@ -35,6 +35,7 @@ Tobias
 
 ### Technical Communication & Information Design 2090 `2022`
 **Title** Technical Writing & Presentation
+
 **Institution** University of Colorado Colorado Springs  
 **Hours** 3
 
