@@ -10,7 +10,7 @@ key: page-about
 
 Hello!
 
-My name is Keyle Barnes! I am currently a Computer Science student with a focus in UX and UI design! I use They/Them/Theirs. This site was created as part of Out in Tech Internship Program [My CV](/cv).
+My name is Tobias! I am currently a Computer Science student with a focus in UX and UI design! I use They/Them/Theirs. This site was created as part of Out in Tech Internship Program [My CV](/cv).
 
 Currently I am studying at the University of Colorado Colorado Springs, for a Computer Science Major and a minor in UI/UX Experience. I have a unique skill set as my background is Cybersecurity, some Digital Design, Customer Service, and a focus in Accessibility.
 
