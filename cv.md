@@ -16,28 +16,28 @@ Tobias Barnes
 
 ### Degree
 #### Bachelor of Arts in Computer Science `2025`
-##### Focus in Cybersecurity with a minor in UX/UI Design
+##### Focus in Cybersecurity with a minor in Technical Communication & Information Design
 [University of Colorado Colorado Springs](https://www.uccs.edu)
 
 
 ### Course Work
 
 ### Computer Science 1450 `2022`
-**Title** Data Structures and Algorithms
-**Language** Java
-**Institution** University of Colorado Colorado Springs  
-**Hours** 3
+- **Course Title** Data Structures and Algorithms
+- **Language** Java
+- **Institution** University of Colorado Colorado Springs  
+- **Credit Hours** 3
 
 ### Technical Communication & Information Design 2090 `2022`
-**Title** Technical Writing & Presentation
-**Institution** University of Colorado Colorado Springs  
-**Hours** 3
+- **Course Title** Technical Writing & Presentation
+- **Institution** University of Colorado Colorado Springs  
+- **Credit Hours** 3
 
 ### Computer Science 1150 `2021`
-**Title** Principles of Computer Science
-**Language** Java
-**Institution** University of Colorado Colorado Springs  
-**Hours** 3
+- **Course Title** Principles of Computer Science
+- **Language** Java
+- **Institution** University of Colorado Colorado Springs  
+- **Credit Hours** 3
 
 
 ## Experience
@@ -48,4 +48,4 @@ Level one support for users to help troubleshoot their issues in a timely manner
 
 ## Skills
 
-**Skills** Cisco Systems Products · Cherwell Service Management (CSM) · Troubleshooting · Customer Service · Adobe Photoshop · Adobe Lightroom · Problem Solving · Task Oriented
+**Skills** Cisco Systems Products · Cherwell Service Management (CSM) · Troubleshooting · Customer Service · Adobe Photoshop · Adobe Lightroom · Problem Solving · Task Oriented · Git · Reading HTML 

@@ -20,7 +20,7 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://thatonewanderingweirdo.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Keyle
+title   : Tobias
 description: > # this means to ignore newlines until "Language & timezone"
   My Resume and experience
 
@@ -35,7 +35,7 @@ timezone: America/Denver # see https://en.wikipedia.org/wiki/List_of_tz_database
 ##############################
 author:
   type      : person # (default), "organization"
-  name      : Keyle Barnes
+  name      : Tobias Barnes
   url       : https://ThatOneWanderingWeirdo.github.io
   avatar    : # path or url of avatar image
   bio       : They/them/theirs
