@@ -5,15 +5,10 @@ titles:
 key: cv-2
 ---
 
-
-Hello, my name is Keyle Barnes and I use they/them/theirs. I am a 19 year old student currently working on my undergraduate in Computer Science at UCCS with a minor in UX/UI Design. I am currently working in Information Technology part time. I love to help people and help make the web more accessible!
-
-I need to put more images here
-
 ## Personal Information
 
-Keyle Barnes
-**E-mail:** Put Something
+Tobias Barnes
+**E-mail:** makeylebarnes@gmail.com
 **Planned Date of graduation:** 2025  
 **University:** [University of Colorado Colorado Springs](http://www.uccs.edu)  
 
@@ -46,9 +41,9 @@ Keyle Barnes
 
 
 ## Experience
-### Service Desk Intern `August 2021 - Present`
+### Service Desk Technician `August 2021 - Present`
 #### UCCS Office of Information Technology - Part Time
-Little summary
+Level one support for users to help troubleshoot their issues in a timely manner
 **Skills** Cisco Systems Products · Cherwell Service Management (CSM) · Troubleshooting · Customer Service
 
 ## Skills
