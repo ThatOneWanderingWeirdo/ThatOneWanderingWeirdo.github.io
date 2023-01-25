@@ -5,16 +5,12 @@ titles:
 key: cv-2
 ---
 
-
-Hello, my name is Tobias and I use they/them/theirs. I am a 19 year old student currently working on my undergraduate in Computer Science at UCCS with a minor in UX/UI Design. I am currently working in Information Technology part time. I love to help people and help make the web more accessible to all!
-
-I need to put more images here
-
 ## Personal Information
 
-- **E-mail:** wanderingtobias@gmail.com
-- **Planned Date of graduation:** 2025  
-- **University:** [University of Colorado Colorado Springs](http://www.uccs.edu)  
+Tobias Barnes
+**E-mail:** makeylebarnes@gmail.com
+**Planned Date of graduation:** 2025  
+**University:** [University of Colorado Colorado Springs](http://www.uccs.edu)  
 
 ## Education
 
@@ -47,8 +43,8 @@ I need to put more images here
 ## Experience
 ### Service Desk Technician `August 2021 - Present`
 #### UCCS Office of Information Technology - Part Time
-A customer service based role, focused on providing the best possible support for users. 
-- **Skills** Cisco Systems Products · Cherwell Service Management (CSM) · Troubleshooting · Customer Service
+Level one support for users to help troubleshoot their issues in a timely manner
+**Skills** Cisco Systems Products · Cherwell Service Management (CSM) · Troubleshooting · Customer Service
 
 ## Skills
 
