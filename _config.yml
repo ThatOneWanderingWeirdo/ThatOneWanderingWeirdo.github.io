@@ -18,9 +18,9 @@
 ##############################
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://thatonewanderingweirdo.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://Tobias-Barnes.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Tobias
+title   : Tobias Barnes
 description: > # this means to ignore newlines until "Language & timezone"
   My Resume and experience
 
@@ -36,24 +36,24 @@ timezone: America/Denver # see https://en.wikipedia.org/wiki/List_of_tz_database
 author:
   type      : person # (default), "organization"
   name      : Tobias Barnes
-  url       : https://ThatOneWanderingWeirdo.github.io
+  url       : https://Tobias-Barnes.github.io
   avatar    : # path or url of avatar image
   bio       : They/them/theirs
-  email     : teanooks@gmail.com
+  email     : makeylebarnes@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name/
-  linkedin  : makeyle-barnes # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name/
-  github    : ThatOneWanderingWeirdo # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  linkedin  : tobias-barnes # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name/
+  github    : tobias-barnes # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: ThatOneWanderingWeirdo/ThatOneWanderingWeirdo.github.io
+repository: Tobias-Barnes/Tobias-Barnes.github.io
 repository_tree: master
 
 
